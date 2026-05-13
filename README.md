@@ -1,10 +1,77 @@
-# Hi there, I'm **Zavian Wang**
+<div align="center">
 
-I'm an LLM researcher specializing in reinforcement learning, agent systems, and practical AI infrastructure. I'm a builder first, focused on turning research ideas into systems people can actually use.
+# Zavian Wang
 
-## Projects
+**LLM researcher building reinforcement learning systems, autonomous agents, and practical AI infrastructure.**
 
-- [**Velaclaw**](https://github.com/Zavianx/velaclaw) - Control plane for team AI.
-- [**OpenHuman**](https://github.com/Zavianx/openhuman) - Personal AI super intelligence that is private, simple, and powerful.
-- [**AgentMemory**](https://github.com/Zavianx/agentmemory) - Persistent memory for AI coding agents based on real-world benchmarks.
-- [**Dexter**](https://github.com/Zavianx/dexter) - Autonomous agent for deep financial research.
+<p>
+  <a href="https://github.com/Zavianx">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Zavianx-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://x.com/ZhoWynn">
+    <img alt="X" src="https://img.shields.io/badge/X-ZhoWynn-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+</p>
+
+</div>
+
+---
+
+### About
+
+I work on agents that can operate beyond demos: reliable memory, tool use, feedback loops, and interfaces that help people get real work done.
+
+- Reinforcement learning for LLM agents
+- Long-running memory and context systems
+- Financial research automation
+- Personal AI interfaces
+
+### Featured Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Zavianx/velaclaw">Velaclaw</a></h3>
+      <p>Control plane for team AI: coordinating agents, workflows, and shared operational context.</p>
+      <p><code>TypeScript</code> <code>AI Infrastructure</code> <code>Agents</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Zavianx/openhuman">OpenHuman</a></h3>
+      <p>Personal AI super intelligence that is private, simple, and powerful.</p>
+      <p><code>Personal AI</code> <code>Interfaces</code> <code>Automation</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Zavianx/agentmemory">AgentMemory</a></h3>
+      <p>Persistent memory for AI coding agents, built around practical benchmark-driven evaluation.</p>
+      <p><code>Memory</code> <code>Retrieval</code> <code>Developer Tools</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Zavianx/dexter">Dexter</a></h3>
+      <p>Autonomous agent for deep financial research and market investigation workflows.</p>
+      <p><code>Finance</code> <code>Research Agent</code> <code>Automation</code></p>
+    </td>
+  </tr>
+</table>
+
+### GitHub Snapshot
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Zavianx&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Zavianx&show_icons=true&hide_border=true&theme=default&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Zavianx&show_icons=true&hide_border=true&theme=default&rank_icon=github"
+    alt="Zavianx GitHub stats"
+  />
+</picture>
+
+</div>
