@@ -1,48 +1,41 @@
-## Welcome! 👋
+# Hi, I'm Zavian
 
-I'm **Zavian Wang**, an LLM researcher focused on reinforcement learning, agent systems, and practical AI infrastructure. I build long-running agents that can remember, use tools, and help people get real work done.
+[![GitHub](https://img.shields.io/badge/-Zavianx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zavianx) [![X](https://img.shields.io/badge/-ZhoWynn-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ZhoWynn)
 
-### 🚀 My Projects
+LLM researcher focused on reinforcement learning, agent systems, and practical AI infrastructure.
 
-- **[Velaclaw](https://github.com/Zavianx/velaclaw)** - Control plane for team AI, agent workflows, and shared operational context.
-- **[OpenHuman](https://github.com/Zavianx/openhuman)** - Personal AI interface for private, simple, and powerful human-agent interaction.
-- **[AgentMemory](https://github.com/Zavianx/agentmemory)** - Persistent memory for AI coding agents, built around practical benchmark-driven evaluation.
-- **[Dexter](https://github.com/Zavianx/dexter)** - Autonomous agent for deep financial research and market investigation workflows.
+I build systems for AI agents that remember, coordinate, use tools, and operate across real workflows.
 
-More agent infrastructure experiments coming soon! 🛠️
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000) ![MCP](https://img.shields.io/badge/-MCP-6B4FBB?style=flat-square) ![Agents](https://img.shields.io/badge/-AI_Agents-222222?style=flat-square)
 
-### 🧠 My Research & Engineering Focus
+## AI Agent Infrastructure
+
+Building the stack for long-running agents with memory, tools, orchestration, and human-facing interfaces.
+
+| Project | What it does |
+|---|---|
+| [velaclaw](https://github.com/Zavianx/velaclaw) | Control plane for team AI, agent workflows, and shared operational context |
+| [agentmemory](https://github.com/Zavianx/agentmemory) | Persistent memory for coding agents, with retrieval and benchmark-driven evaluation |
+| [openhuman](https://github.com/Zavianx/openhuman) | Personal AI interface for private human-agent interaction and automation |
+| [awesome-openclaw](https://github.com/Zavianx/awesome-openclaw) | OpenClaw resource collection and search surface ([openclawsearch.com](https://openclawsearch.com)) |
+
+## Research Agents
+
+Agents for financial research, market investigation, and event-driven analysis.
+
+| Project | What it does |
+|---|---|
+| [dexter](https://github.com/Zavianx/dexter) | Autonomous agent for deep financial research workflows |
+| [TradingAgents](https://github.com/Zavianx/TradingAgents) | Multi-agent LLM financial trading research framework |
+| [freqtrade](https://github.com/Zavianx/freqtrade) | Open-source crypto trading bot experiments and strategy research |
+
+## Current Focus
 
 | Area | What I'm exploring |
-|------|--------------------|
-| Reinforcement Learning | Training and evaluating agents that improve through feedback loops |
-| Agent Memory | Long-term context, retrieval, persistence, and working-memory systems |
-| Tool Use | Reliable agent actions across code, web, local apps, and research workflows |
-| Financial Research | Multi-agent research systems for markets, events, and decision support |
+|---|---|
+| Reinforcement learning | Feedback loops for agents that improve over long horizons |
+| Agent memory | Long-term context, retrieval, compression, and working memory |
+| Tool use | Reliable actions across code, web, apps, and local environments |
+| Human-agent interfaces | Making agents useful in everyday personal and team workflows |
 
-<!--
-### 🧩 My Open Source Work
-
-| Project | Signal | Focus |
-|---------|--------|-------|
-| [Velaclaw](https://github.com/Zavianx/velaclaw) | [![GitHub Repo stars](https://img.shields.io/github/stars/Zavianx/velaclaw?style=flat&logo=github)](https://github.com/Zavianx/velaclaw) | Team AI control plane and agent workflow orchestration |
-| [OpenHuman](https://github.com/Zavianx/openhuman) | [![GitHub Repo stars](https://img.shields.io/github/stars/Zavianx/openhuman?style=flat&logo=github)](https://github.com/Zavianx/openhuman) | Personal AI interface and automation |
-| [AgentMemory](https://github.com/Zavianx/agentmemory) | [![GitHub Repo stars](https://img.shields.io/github/stars/Zavianx/agentmemory?style=flat&logo=github)](https://github.com/Zavianx/agentmemory) | Persistent memory for coding agents |
-| [Dexter](https://github.com/Zavianx/dexter) | [![GitHub Repo stars](https://img.shields.io/github/stars/Zavianx/dexter?style=flat&logo=github)](https://github.com/Zavianx/dexter) | Autonomous financial research agent |
--->
-
-### 📌 Current Interests
-
-- RL for long-horizon LLM agents
-- Agent memory architectures and context compression
-- Human-agent interfaces for daily work
-- Automated market and event research
-
----
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zavianx&theme=radical" alt="Zavianx GitHub streak"></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zavianx&theme=radical" alt="Zavianx GitHub stats"></td>
-  </tr>
-</table>
+[agent-memory.dev](https://agent-memory.dev) | [tinyhumans.ai/openhuman](https://tinyhumans.ai/openhuman) | [openclawsearch.com](https://openclawsearch.com)
