@@ -20,6 +20,7 @@ More agent infrastructure experiments coming soon! 🛠️
 | Tool Use | Reliable agent actions across code, web, local apps, and research workflows |
 | Financial Research | Multi-agent research systems for markets, events, and decision support |
 
+<!--
 ### 🧩 My Open Source Work
 
 | Project | Signal | Focus |
@@ -28,6 +29,7 @@ More agent infrastructure experiments coming soon! 🛠️
 | [OpenHuman](https://github.com/Zavianx/openhuman) | [![GitHub Repo stars](https://img.shields.io/github/stars/Zavianx/openhuman?style=flat&logo=github)](https://github.com/Zavianx/openhuman) | Personal AI interface and automation |
 | [AgentMemory](https://github.com/Zavianx/agentmemory) | [![GitHub Repo stars](https://img.shields.io/github/stars/Zavianx/agentmemory?style=flat&logo=github)](https://github.com/Zavianx/agentmemory) | Persistent memory for coding agents |
 | [Dexter](https://github.com/Zavianx/dexter) | [![GitHub Repo stars](https://img.shields.io/github/stars/Zavianx/dexter?style=flat&logo=github)](https://github.com/Zavianx/dexter) | Autonomous financial research agent |
+-->
 
 ### 📌 Current Interests
 
