@@ -55,23 +55,14 @@ I work on agents that can operate beyond demos: reliable memory, tool use, feedb
   </tr>
 </table>
 
-### GitHub Snapshot
+### Signals
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Zavianx&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Zavianx&show_icons=true&hide_border=true&theme=default&rank_icon=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Zavianx&show_icons=true&hide_border=true&theme=default&rank_icon=github"
-    alt="Zavianx GitHub stats"
-  />
-</picture>
+<p>
+  <img alt="Velaclaw stars" src="https://img.shields.io/github/stars/Zavianx/velaclaw?style=for-the-badge&label=Velaclaw%20stars&color=0969da">
+  <img alt="Velaclaw forks" src="https://img.shields.io/github/forks/Zavianx/velaclaw?style=for-the-badge&label=Velaclaw%20forks&color=8250df">
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Agent%20Systems-2da44e?style=for-the-badge">
+</p>
 
 </div>
