@@ -1,4 +1,4 @@
-![Zavian profile header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0D9488&height=180&section=header&text=Zavian%20Wang&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=LLM%20agents%20%7C%20reinforcement%20learning%20%7C%20AI%20infrastructure&descAlignY=62&descSize=16)
+![Zavian profile header](./assets/profile-banner.svg)
 
 ## 👋🏻 Hi, I'm Zavian
 

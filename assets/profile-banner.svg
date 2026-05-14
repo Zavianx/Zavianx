@@ -1,0 +1,40 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Zavian Wang profile banner</title>
+  <desc id="desc">A monochrome GitHub profile banner with an abstract X shape.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#000000"/>
+      <stop offset="0.58" stop-color="#050505"/>
+      <stop offset="1" stop-color="#111111"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect width="1200" height="360" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#surface)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+
+    <path d="M726 -42L1072 402" stroke="#FFFFFF" stroke-opacity="0.94" stroke-width="58"/>
+    <path d="M1120 -42L774 402" stroke="#FFFFFF" stroke-opacity="0.94" stroke-width="58"/>
+    <path d="M760 -42L1106 402" stroke="#000000" stroke-width="22"/>
+    <path d="M1086 -42L740 402" stroke="#000000" stroke-width="22"/>
+    <path d="M684 322H1168" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <path d="M812 38H1148" stroke="#FFFFFF" stroke-opacity="0.14"/>
+
+    <text x="72" y="140" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="54" font-weight="700" letter-spacing="0">Zavian Wang</text>
+    <text x="75" y="186" fill="#D7D7D7" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="500" letter-spacing="0">LLM agents / reinforcement learning / AI infrastructure</text>
+
+    <g transform="translate(72 236)">
+      <rect x="0" y="0" width="172" height="36" rx="18" fill="#FFFFFF"/>
+      <text x="22" y="24" fill="#000000" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="700" letter-spacing="0">github.com/Zavianx</text>
+    </g>
+
+    <circle cx="72" cy="304" r="2" fill="#FFFFFF"/>
+    <path d="M92 304H382" stroke="#FFFFFF" stroke-opacity="0.32"/>
+  </g>
+</svg>
