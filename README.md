@@ -34,26 +34,3 @@ I build systems for agents that remember, coordinate, use tools, and operate in 
 | Project | Role | Focus |
 |---|---|---|
 | [OpenHuman](https://github.com/tinyhumansai/openhuman) | Contributor | Personal AI super intelligence for private, simple automation |
-
----
-
-## 👾 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Zavianx/Zavianx/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Zavianx/Zavianx/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/Zavianx/Zavianx/output/pacman-contribution-graph.svg"
-  />
-</picture>
-
-</div>
