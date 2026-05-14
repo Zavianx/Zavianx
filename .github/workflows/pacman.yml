@@ -26,12 +26,6 @@ jobs:
         with:
           github_user_name: Zavianx
 
-      - name: Generate GitHub Contribution Graph
-        run: node scripts/generate-contribution-graph.mjs
-        env:
-          GITHUB_LOGIN: Zavianx
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Publish Pacman Graph
         uses: crazy-max/ghaction-github-pages@v4
         with:

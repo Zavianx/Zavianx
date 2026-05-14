@@ -36,23 +36,6 @@ I build systems for agents that remember, coordinate, use tools, and operate in 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Zavianx/Zavianx/output/github-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Zavianx/Zavianx/output/github-contribution-graph.svg"
-  />
-  <img
-    alt="GitHub contribution graph"
-    src="https://raw.githubusercontent.com/Zavianx/Zavianx/output/github-contribution-graph.svg"
-  />
-</picture>
-
-<br />
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Zavianx/Zavianx/output/pacman-contribution-graph-dark.svg"
   />
   <source
