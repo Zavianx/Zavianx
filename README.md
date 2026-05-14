@@ -54,4 +54,4 @@ I build systems for agents that remember, coordinate, use tools, and operate in 
 
 ## 📌 Projects
 
-Check my pinned repositories below to explore agent systems, personal AI interfaces, and automation tools. Currently contributing to [OpenHuman](https://github.com/tinyhumansai/openhuman).
+Check my pinned repositories below to explore agent systems, personal AI interfaces, and automation tools.
