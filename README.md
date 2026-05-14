@@ -29,14 +29,6 @@ I build systems for agents that remember, coordinate, use tools, and operate in 
 
 ---
 
-## 📌 Contributor Work
-
-| Project | Role | Focus |
-|---|---|---|
-| [OpenHuman](https://github.com/tinyhumansai/openhuman) | Contributor | Personal AI super intelligence for private, simple automation |
-
----
-
 ## 👾 Contribution Graph
 
 <div align="center">
@@ -57,3 +49,9 @@ I build systems for agents that remember, coordinate, use tools, and operate in 
 </picture>
 
 </div>
+
+---
+
+## 📌 Projects
+
+Check my pinned repositories below to explore agent systems, personal AI interfaces, and automation tools. Currently contributing to [OpenHuman](https://github.com/tinyhumansai/openhuman).
